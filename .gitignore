@@ -1,0 +1,30 @@
+# Compiled Object files
+*.o
+*.a
+*.so
+
+# Executables
+server
+client
+*.exe
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+
+# Datasets & test payloads
+dataset/
+*.bin
+
+# Client / benchmark outputs
+out*/
+*/out*/
+client_out/
+*/client_out/
+
+# IDE / OS specific files
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
